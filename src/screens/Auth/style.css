@@ -1,0 +1,23 @@
+.authContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputContainer {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginMessage {
+    color: red;
+    font-size: 18px;
+}
+
+.signInBtn {
+    width: 154px;
+    margin-top: 20px;
+    cursor: pointer;
+}
